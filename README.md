@@ -53,9 +53,7 @@
 </div>
 
 ---
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/VinhPham25/VinhPham25/output/github-contribution-grid-snake-dark.svg)
----
+
 
 ### 📫 Let's Connect
 * [Portfolio](https://vinhphamportfolio.vercel.app/)
