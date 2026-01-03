@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Vinh Pham
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinhPham25&show_icons=true&theme=transparent&hide_border=true" alt="Vinh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinhPham25&theme=transparent&hide_border=true" alt="Vinh's GitHub Streak" />
 </div>
 
 ---
 
-### 📡 System Overview
+### 📡  Overview
 - **Major:** Honors CS Student @ Georgia Tech 
 - **Core Interests:** ML Engineering • AI Research • Computer Vision
 - **Current Focus:** Building CARE, a chrome extension that streamlines online shopping with realistic 3D avatar and clothes modeling
@@ -49,10 +49,12 @@
 
 ### 📈 Activity Matrix
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhPham25&layout=compact&theme=transparent&hide_border=true" alt="Vinh's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinhPham25&theme=react-dark&area=true&hide_border=true" alt="Vinh's Activity Graph" />
 </div>
 
 ---
 
 ### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/vinh-t-pham) • [Email](mailto:vinh.pham2529@gmail.com) • **[Portfolio](https://vinhphamportfolio.vercel.app/)**
+* [Portfolio](https://vinhphamportfolio.vercel.app/)
+* [LinkedIn](https://linkedin.com/in/vinh-t-pham) 
+* [Email: vinh.pham2529@gmail.com](mailto:vinh.pham2529@gmail.com) 
