@@ -16,7 +16,8 @@
 
 ### 🔬 Research Experience
 
-**Georgia Institute of Technology** | *Undergraduate Researcher* **Lab:** Mind, Brain, and Engineering (MBE) Lab | **Advisor:** Dr. Maysam Nezafati  
+**Georgia Institute of Technology** | *Undergraduate Researcher* 
+**Lab:** Mind, Brain, and Engineering (MBE) Lab | **Advisor:** Dr. Maysam Nezafati  
 **Project:** [ASTaUND](https://github.com/your-username/astaund-reproduction): Reproducible fNIRS Pipeline for Surgical Skill & Mental Workload Analysis  
 *January 2026 – Present*
 
