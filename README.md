@@ -14,13 +14,16 @@
 
 ---
 
-### 🔬 Current Research (Incoming Spring 2026)
-**Georgia Institute of Technology** | *Undergraduate Researcher* **Project:** *Game Theory, Responsible AI, and Fairness in Peer Review* **Advisor:** Professor Juba Ziani
+### 🔬 Research Experience
 
-* **Objective:** Investigating the rise of **LLM-driven peer reviewing** to analyze how AI models generate evaluations and make acceptance decisions.
-* **Data Analysis:** Comparing human vs. AI fairness/quality using conference datasets from **ICML, NeurIPS, and ICLR**.
-* **Workflow:** Data collection from public ML archives, LLM fine-tuning, and algorithmic evaluation.
+**Georgia Institute of Technology** | *Undergraduate Researcher* **Lab:** Mind, Brain, and Engineering (MBE) Lab | **Advisor:** Dr. Maysam Nezafati  
+**Project:** [ASTaUND](https://github.com/your-username/astaund-reproduction): Reproducible fNIRS Pipeline for Surgical Skill & Mental Workload Analysis  
+*January 2026 – Present*
 
+* **Objective:** Architecting a standardized, BIDS-compliant Python pipeline to analyze **functional Near-Infrared Spectroscopy (fNIRS)** data, targeting the identification of neural biomarkers of expertise in robotic surgery.
+* **Signal Processing:** Implementing advanced denoising techniques including **Recursive PCA (rPCA)** and **Short-Channel Regression (OLS)** to isolate cortical hemodynamics from systemic physiological noise.
+* **Reproducibility:** Developed a modular "1:1 Reproduction" framework using **MNE-Python** to validate findings from *Kamat et al. (2023)* across four longitudinal and cross-sectional datasets.
+* **Technical Stack:** `Python` (NumPy, SciPy, Pandas), `MNE-NIRS`, `YAML` Configuration Management, `BIDS` Data Standardization, and `GLM` Statistical Modeling.
 ---
 
 ### 🛠 Tech Stack
